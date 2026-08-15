@@ -1,0 +1,182 @@
+{
+  "type": "FeatureCollection",
+  "name": "mawanella",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.447,
+          7.253
+        ]
+      },
+      "properties": {
+        "name": "Mawanella Town Centre",
+        "category": "Settlement",
+        "note": "Urban core on the A1 corridor; ~239 m elevation",
+        "district": "Kegalle",
+        "province": "Sabaragamuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4569,
+          7.2244
+        ]
+      },
+      "properties": {
+        "name": "Bathalegala (Bible Rock)",
+        "category": "Landform",
+        "note": "Flat-topped rock outcrop; dominant landmark of the basin",
+        "district": "Kegalle",
+        "province": "Sabaragamuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.43,
+          7.2472
+        ]
+      },
+      "properties": {
+        "name": "Utuwankanda",
+        "category": "Landform",
+        "note": "Rock hideout of Utuwankande Sura Saradiel (19th c.)",
+        "district": "Kegalle",
+        "province": "Sabaragamuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.533,
+          7.22
+        ]
+      },
+      "properties": {
+        "name": "Alagalla Mountain",
+        "category": "Landform",
+        "note": "Eastern ridge marking the climb to the central highlands",
+        "district": "Kegalle",
+        "province": "Sabaragamuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.423,
+          7.262
+        ]
+      },
+      "properties": {
+        "name": "Devanagala Rock",
+        "category": "Landform",
+        "note": "Rock outcrop north-west of the town centre",
+        "district": "Kegalle",
+        "province": "Sabaragamuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4455,
+          7.2515
+        ]
+      },
+      "properties": {
+        "name": "Maha Oya (Mawanella reach)",
+        "category": "Hydrology",
+        "note": "Principal watercourse; shapes settlement and paddy layout",
+        "district": "Kegalle",
+        "province": "Sabaragamuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4462,
+          7.2518
+        ]
+      },
+      "properties": {
+        "name": "Mawanella Colonial Bridge",
+        "category": "Heritage",
+        "note": "British-era brick arch bridge over the Maha Oya",
+        "district": "Kegalle",
+        "province": "Sabaragamuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.423,
+          7.262
+        ]
+      },
+      "properties": {
+        "name": "Devanagala Raja Maha Viharaya",
+        "category": "Heritage",
+        "note": "Historic Buddhist temple on Devanagala",
+        "district": "Kegalle",
+        "province": "Sabaragamuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4472,
+          7.2532
+        ]
+      },
+      "properties": {
+        "name": "A1 Highway Junction",
+        "category": "Transport",
+        "note": "Colombo-Kandy Road; main regional access point",
+        "district": "Kegalle",
+        "province": "Sabaragamuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.528,
+          7.254
+        ]
+      },
+      "properties": {
+        "name": "Kadugannawa Railway Station",
+        "category": "Transport",
+        "note": "Nearest rail node, approximately 10 km east",
+        "district": "Kandy",
+        "province": "Central"
+      }
+    }
+  ]
+}
